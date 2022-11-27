@@ -14,7 +14,7 @@
 
 <script>
 export default {
-  name: 'LayoutPage'
+  name: 'xtx-layout'
 }
 </script>
 
